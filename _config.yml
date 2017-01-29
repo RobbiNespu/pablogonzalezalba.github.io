@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Pablo González Alba's Blog
 email: pablo.gonzalez.alba@gmail.com
+author: Pablo González Alba
 description: > # this means to ignore newlines until "baseurl:"
   Just my blog
 baseurl: "" # the subpath of your site, e.g. /blog
