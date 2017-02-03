@@ -2,7 +2,7 @@
 layout: post
 title: "Generating posts from the command line"
 date: 2017-02-02 20:35:15 +0100
-categories: a-post-a-day jekyll
+tags: a-post-a-day jekyll
 ---
 
 I've been enjoying writing with Jekyll, Markdown is easy, it actually looks nice even before parsing and I can make all these changes with the interface that I choose.

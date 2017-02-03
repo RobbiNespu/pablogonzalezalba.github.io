@@ -2,7 +2,7 @@
 layout: post
 title: "Always check your backups!"
 date: 2017-02-01 21:28:04 +0100
-categories: a-post-a-day backups
+tags: a-post-a-day backups
 ---
 
 Everyone knows how important is to have backups, but how many times do you test your backups? Have you tested them *at all*?

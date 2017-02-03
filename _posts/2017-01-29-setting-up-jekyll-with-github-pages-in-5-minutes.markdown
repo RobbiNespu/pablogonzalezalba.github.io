@@ -2,7 +2,7 @@
 layout: post
 title:  "Setting up Jekyll with GitHub pages in 5 minutes"
 date:   2017-01-29 11:40:07 +0100
-categories: jekyll github meta
+tags: jekyll github meta
 ---
 I've finally decided for a new blog setup: [Jekyll](http://jekyllrb.com) inside [GitHub pages](https://pages.github.com/).
 
@@ -25,7 +25,7 @@ I tend to procrastinate a lot, so I wanted to just start writing and then config
 
 Other unofficial tutorials also take some time in extra configuration, that's definitely useful, but for some people, like me, it's just another excuse to postpone the actual writing, this is the guide that I'd have liked to have when I started.
 
-This post won't explain everything and will assume have [RubyGems](https://rubygems.org/pages/download) and [Git](https://git-scm.com/) and know how to use them.
+This post won't explain everything and will assume you have [RubyGems](https://rubygems.org/pages/download) and [Git](https://git-scm.com/) and know how to use them.
 
 ## Let's get started
 

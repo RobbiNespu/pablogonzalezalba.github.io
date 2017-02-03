@@ -2,7 +2,7 @@
 layout: post
 title: "Starting a routine"
 date: 2017-01-31 20:49:11 +0100
-categories: meta a-post-a-day
+tags: meta a-post-a-day
 ---
 I've decided to stick to a routine to write more.
 
