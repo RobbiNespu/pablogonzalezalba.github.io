@@ -23,6 +23,15 @@ url: "https://pablogonzalezalba.github.io" # the base hostname & protocol for yo
 twitter_username: pgonzalezalba
 github_username:  pablogonzalezalba
 google_analytics: UA-63955367-2
+disqus:
+  shortname: pablogonzalezalba-1
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
 
 # Build settings
 markdown: kramdown
