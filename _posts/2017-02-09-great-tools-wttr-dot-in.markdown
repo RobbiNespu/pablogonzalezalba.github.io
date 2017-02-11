@@ -9,7 +9,7 @@ Do you often find yourself working inside a terminal with access to the Internet
 
 No?
 
-Me neither. But I admit that doing `Alt+Tab` (or `Super+1, Super+o, Super+j,j,j, whatever I'll just grab the mouse` if you use [xmonad](http://xmonad.org/) like me) to get to your browser is a little cumbersome.
+Me neither. But I admit that doing `Alt+Tab` (or `Super+1, Super+o, Super+j,j,j, whatever I'll just grab the mouse` if you use [xmonad]({% post_url 2017-02-11-great-tools-xmonad %}) like me) to get to your browser is a little cumbersome.
 
 ## Enter wttr.in
 
