@@ -11,9 +11,12 @@ If you want to write your own blog, I've compiled here all my posts about starti
   {% for post in site.posts reversed %}
     {% if post.tags contains 'jekyll' %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-        —
-        <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+        <p>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          —
+          <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+        </p>
+        {{ post.excerpt }}
       </li>
     {% endif %}
   {% endfor %}
