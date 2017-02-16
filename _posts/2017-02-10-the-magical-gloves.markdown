@@ -69,7 +69,7 @@ Oh, yeah, the moral is not for employees, it's for employers! Evaluating employe
 
 I don't have a solution for this. But I hope this opens your eyes about how a bad implemented measurement could mean praises for people that game the system and blames for the honest working people.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: For example, he had a list of things to ask our provider. We added some obviously fake products. He didn't realize and asked for it, making everyone, including the provider, laugh and retell that story for weeks.
 [^2]: Usually me.

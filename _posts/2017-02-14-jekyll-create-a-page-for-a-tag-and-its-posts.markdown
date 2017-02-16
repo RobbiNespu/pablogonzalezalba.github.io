@@ -53,6 +53,6 @@ Then in the body of the file, I've added a short introduction to the subject and
 
 This is one of the main advantages of Jekyll, you still have a lot of control and can, effortlessly, personalize your blog so it adapts to your needs instead of you adapting to it.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: That page doesn't exist yet.

@@ -38,6 +38,6 @@ Take a couple of minutes of your time and check all your backups now, even the o
 
 If you care about it, back it up, then grab that backup and recover it, make sure that everything it's in place, and do it periodically, you won't regret it.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: That's a good idea for another blog post: get used to automatize everything.

@@ -33,7 +33,7 @@ This means that is simple and combinable. You can just run as is and see a nice 
 
 I'm glad to have this tool, that's very good on its own, but thanks to the modifications I made, I feel [the IKEA effect](https://en.wikipedia.org/wiki/IKEA_effect) in full and I like it even more.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: I know that there is a point where it should be easier to just grab another service with an API.
 [^2]: Status bar for xmonad.

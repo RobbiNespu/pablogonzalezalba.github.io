@@ -37,6 +37,6 @@ defaults:
 
 And that's it. Now you are able to receive comments and talk with your followers.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: If you don't, copy it from the [Minima repository](https://github.com/jekyll/minima/blob/master/_includes/disqus_comments.html).

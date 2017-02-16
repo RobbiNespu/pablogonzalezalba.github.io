@@ -23,6 +23,6 @@ And to make it even easier, I added this line to my aliases: `alias new_post="th
 
 I probably have enough free time to lose a minute here and there to copy the title and write the date manually. However in the long run that boring stuff becomes heavier and heavier and all those minutes could have been better spent in something more meaningful. Also, it's nice to do something that requires to learn something new.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: I know that technically it's not the published date but it's close enough. Maybe when I need to write longer posts if it's still a problem I'll find a solution.

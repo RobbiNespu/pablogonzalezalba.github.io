@@ -35,7 +35,7 @@ With simple shortcuts you can move through windows, reorder them, send them to o
 
 If you're not completely happy arranging windows, give it a go. I'm sure you'll be surprised.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: According to my college records, this is an overstatement.
 [^2]: I loved having dual monitors so much that I used it as the minimum requirement for work and I discarded any possible jobs were I would be forced to use only one. And I'm really glad that I did, but that's another story.

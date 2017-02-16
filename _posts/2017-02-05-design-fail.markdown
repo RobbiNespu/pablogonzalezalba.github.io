@@ -37,7 +37,7 @@ Putting the eraser in the cap is genius. When the tip is capped, you can erase w
 
 I'm not aware of the design process that goes to develop a pen, it's probably really complicated and has evolved a lot since the first pen ever made[^4]. However, for some companies, at least, it can still be improved upon.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: I don't know if there is a patent on it, but I've seen it on multiple other brands so I'm going to guess that's not the problem.
 [^2]: It took me a surprisingly large amount of time to find another kind of erasable pen, they aren't as common as I imagined.

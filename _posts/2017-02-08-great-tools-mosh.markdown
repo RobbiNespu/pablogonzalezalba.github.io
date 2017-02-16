@@ -23,6 +23,6 @@ Enter [Mosh](https://mosh.org/), the mobile shell. It's a replacement for `ssh`,
 
 Dutch ISPs are better at delivering a stable connection, however because of wifi issues and be able to send my laptop to sleep, I keep using Mosh the same. And I suggest you do the same, like a plunger, it's better to have it before you need it[^1].
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: According to [Reddit](https://www.reddit.com), this is like the meme for best advice ever.

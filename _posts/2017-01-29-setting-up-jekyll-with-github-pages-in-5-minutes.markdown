@@ -41,7 +41,7 @@ After that you can (or should) edit your `_config.yml` and start looking around 
 
 Since I haven't done much more configuration myself just yet, expect future posts on how to improve your new blog.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: If you did it, the easiest way to continue is to clone it in to your local machine, delete all the contents (usually just a README, LICENSE and .gitignore), run `jekyll new ./` and then just undelete the files with `git checkout --`.
 [^2]: The first time it may take a couple of minutes to appear. In my case it was less than 1, but I've read that it can take up to 5.

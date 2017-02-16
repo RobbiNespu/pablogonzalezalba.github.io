@@ -14,7 +14,7 @@ I have a couple of drafts there, I'll create more, I'll publish one of them, I'l
 
 They won't be all full fledged posts, but small, interesting[^2] tidbits to share. I have tons of insights that I've learned and I've written in a text file somewhere in order to not forget about them. I could just as easy write them into my blog and, maybe, someone will find them useful too.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: There are better editors probably, but I feel really comfortable with this one.
 [^2]: No guarantees.

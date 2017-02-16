@@ -24,6 +24,6 @@ You're done! Please remember that it may take a while since you post in the blog
 
 Now you don't have to worry about forgetting to tweet about it. And the same steps can be done for any other social media that you use.
 
-### Footnotes
+{% include footnotes.md %}
 
 [^1]: Even if you don't use this service, please do it anyway. Your ringtone interrupts the whole office.
