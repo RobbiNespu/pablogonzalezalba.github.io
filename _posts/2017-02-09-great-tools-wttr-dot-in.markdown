@@ -28,7 +28,7 @@ I love that it's going to snow. And I also love how nice [wttr.in](http://wttr.i
 This means that is simple and combinable. You can just run as is and see a nice summary of the weather. Or you can combine it with other tools to make it work exactly as you need it[^1]. I have created some aliases and bash functions to parse the results to use in different cases:
 
 - When I start a new `zsh` shell, it shows me the weather for today only.
-- In my [xmobar](http://projects.haskell.org/xmobar/)[^2] I have a line that shows me the current temperature, sky conditions and precipitation.
+- In my [xmobar]({% post_url 2017-02-19-great-tools-xmobar %})[^2] I have a line that shows me the current temperature, sky conditions and precipitation.
 - And, the most important, I aliased `alias weather="wget -qO - wttr.in/Amsterdam"` so, even through proxies, I have my city info and the result is easier to parse with other functions.
 
 I'm glad to have this tool, that's very good on its own, but thanks to the modifications I made, I feel [the IKEA effect](https://en.wikipedia.org/wiki/IKEA_effect) in full and I like it even more.
