@@ -3,7 +3,7 @@ layout: post
 title: "Generating your resume with LaTeX"
 date: 2017-02-20 20:55:49 +0100
 tags: a-post-a-day
-excerpt: Having a resume that looks nice everywhere is very important, and you can generate one easily with LaTeX.
+excerpt: <p>Having a resume that looks nice everywhere is very important, and you can generate one easily with LaTeX.</p>
 ---
 <script type="text/javascript"
   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
