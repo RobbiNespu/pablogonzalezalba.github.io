@@ -55,4 +55,4 @@ This is one of the main advantages of Jekyll, you still have a lot of control an
 
 {% include footnotes.md %}
 
-[^1]: That page doesn't exist yet.
+[^1]: Here's how to [create a page for each tag]({% post_url 2017-02-21-jekyll-automatic-tags-page %}).
