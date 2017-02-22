@@ -94,4 +94,5 @@ And that's it, we have a GitHub Pages-compatible page for our tags. If you use c
 
 {% include footnotes.md %}
 
-[^1]: Yes, this sounds repetitive and boring, but we are limited by what GitHub Pages provides. An alternative is to install any plugin, compile the code locally and publish the resulting processed blog. And, also, I'm still looking for other solutions.
+[^1]: Yes, this sounds repetitive and boring, but we are limited by what GitHub Pages provides. An alternative is to install any plugin, compile the code locally and publish the resulting processed blog. And, also, I'm still looking for other solutions[^2].
+[^2]: Check [my new alternative]({% post_url 2017-02-22-jekyll-automatic-tags-with-git-pre-commit %})
