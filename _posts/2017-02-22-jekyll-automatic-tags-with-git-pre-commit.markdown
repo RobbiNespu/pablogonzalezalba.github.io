@@ -5,7 +5,7 @@ date: 2017-02-22 21:22:24 +0100
 tags: a-post-a-day jekyll
 ---
 
-Following up on [yesterday's post]({ post_url 2017-02-21-jekyll-automatic-tags-page }), let's automatize it more!
+Following up on [yesterday's post]({% post_url 2017-02-21-jekyll-automatic-tags-page %}), let's automatize it more!
 
 ## What if I miss a tag?
 
