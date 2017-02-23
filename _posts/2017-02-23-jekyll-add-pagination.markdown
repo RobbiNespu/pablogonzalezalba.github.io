@@ -55,4 +55,4 @@ Sadly, this plugin doesn't support tags or categories and is not under active de
 
 {% include footnotes.md %}
 
-[^1]: This feels like I'm patting myself in the back, however I put the paginator with less than 30 posts so I doesn't really count.
+[^1]: This feels like I'm patting myself in the back, however I put the paginator with less than 30 posts so it doesn't really count.
