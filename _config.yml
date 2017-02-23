@@ -51,3 +51,5 @@ collections:
   my_tags:
     output: true
     permalink: /tag/:name/
+paginate: 10
+paginate_path: "/page-:num/"
